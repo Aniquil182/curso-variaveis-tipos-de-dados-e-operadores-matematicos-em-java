@@ -25,11 +25,11 @@ public class Main {
         //j = 15;
         int asrn24678md;
         //int asrn46 78md;
-        int asrn2$4678_md = 10;
         //int asrn2$46%78_md = 10;
+        int asrn2$4678_md;
 
         asrn24678md = 100;
-        //asrn2$4678_md = 10;
+        asrn2$4678_md = 10;
 
         int quantidadeProduto = 50;
         //int QuantidadeProduto;
